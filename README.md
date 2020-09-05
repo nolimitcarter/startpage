@@ -2,4 +2,4 @@
 
 #starpagehype
 
-## added to carter.dev/blog
+## added to cartert.dev/blog
