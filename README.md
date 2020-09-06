@@ -2,4 +2,4 @@
 
 #starpagehype
 
-## added to cartert.dev/blog
+## added to cartert.dev/blog/index.html
