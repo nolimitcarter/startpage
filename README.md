@@ -1,6 +1,6 @@
 # startpage
 
-#starpagehype
+#startpagehype
 
 ## added to https://cartert.dev/startpage/index.html
 
